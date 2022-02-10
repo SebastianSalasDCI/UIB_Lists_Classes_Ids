@@ -1,4 +1,7 @@
 # Listmania
+The goal of this exercise is to practice the learned about HTML lists and CSS classes and Ids.
+
+## Task 1
 
 ### Part 1 - Ordered Lists
 
@@ -21,7 +24,15 @@
 - Underneath steps, include the steps from the `.txt` file in an ordered list
 - Change the `list-style-type` to whatever you like
 
-### Additional
+## Task 2
 
-- Use comments in your markup to specify the specific lists
-- Use a **class** or **id** as needed 
+-   Modify either the classes or Id's in the HTML file and add or change the corresponding classes and Id's in the CSS file that you have for this exercise to make sure the text of the whole page is only in color blue.
+
+![alt-text](reference-image.png "Reference Image")
+
+**Bonus**:
+
+-   Separate the p tags in different DIVs.
+-   Give either an ID or a class to each DIV.
+-   Add a background color to each DIV.
+
